@@ -1,6 +1,6 @@
 function edhist= edgehist(rgb_im)
 %edge directional histogram
-%Input image should be a rgb image,
+%Input image should be a rgb image
 %a 1x5 edge orientation histogram is computed (horizontal, vertical,
 % 2 diagonals and 1 non-directional)
 %convert rgb color space into ycbcr colorspace
